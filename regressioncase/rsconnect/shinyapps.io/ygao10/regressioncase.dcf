@@ -1,0 +1,12 @@
+name: regressioncase
+title: regressioncase
+username:
+account: ygao10
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2614471
+bundleId: 3438333
+url: https://ygao10.shinyapps.io/regressioncase/
+when: 1595793864.17464
+asMultiple: FALSE
+asStatic: FALSE
